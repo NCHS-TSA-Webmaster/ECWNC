@@ -1013,6 +1013,17 @@ h2#wsite-com-product-title {
     top: auto !important;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.randpadding {
+    padding-top: 0%;
+}
+
 #wsite-mini-cart:before, #wsite-mini-cart:after {
     display: none !important;
 }
